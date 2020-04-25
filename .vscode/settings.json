@@ -1,4 +1,6 @@
 {
     "python.jediEnabled": false,
-    "code-runner.clearPreviousOutput": true
+    "code-runner.clearPreviousOutput": true,
+    "python.pythonPath": "c:\\Users\\Karol\\Desktop\\Foldery\\SI Banasik\\.env\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
